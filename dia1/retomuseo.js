@@ -3,7 +3,7 @@ let connection = mysql.createConnection(
 {
     host: "localhost",
     user:"root",
-    password:"Alai321!",
+    password:"*****",
     database:"museo"
     
 });
